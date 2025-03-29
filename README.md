@@ -38,7 +38,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-@torg_ymecten-0088cc?style=flat&logo=telegram)](https://t.me/torg_ymecten)  
 - **Деркач Дмитрий** — Дизайнер  
   [![Telegram](https://img.shields.io/badge/Telegram-@midnight70-0088cc?style=flat&logo=telegram)](https://t.me/midnight70)  
-- **Кирьянов Алексей** — Главный разработчик  
+- **Кирьянов Алексей** — Ведущий разработчик  
   [![Telegram](https://img.shields.io/badge/Telegram-@aleksey183681-0088cc?style=flat&logo=telegram)](https://t.me/aleksey183681)  
 - **Шахова Анастасия** — Аналитик, Технический писатель  
   [![Telegram](https://img.shields.io/badge/Telegram-@nastashdochafruktcom-0088cc?style=flat&logo=telegram)](https://t.me/nastashdochafruktcom)
